@@ -10,9 +10,9 @@ import time
 import math
 import _thread
 import re
-
-SSID = 'prasthanthi-mesh'
-PASSWORD = 'minicooper007'
+#Add your SSID ( Wifi Name) and the password here , to connect to wifi
+SSID = ''
+PASSWORD = ''
 PORT = 8080
 
 def connect_wifi():
